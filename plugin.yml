@@ -1,0 +1,11 @@
+main: x.KenKOfficial.Homes.Basic.Main
+version: 1.0-Beta
+name: xKenHomes
+author: xKenKOfficial
+description: Plugin Autorstwa KenKOfficial
+website: https://discord.gg/2HDuZrEFTg
+
+commands:
+  delhome:
+  home:
+  sethome:

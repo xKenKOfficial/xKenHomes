@@ -1,0 +1,47 @@
+# Tutaj mozna ustawic prefix pluginu:
+prefix: "&3&lxKenHomes"
+
+# Tutaj mozna ustawic wiadomosc o braku permisji:
+no_permission: "&8>> &cNie masz dostepu do tej komendy!"
+
+# Tutaj mozna ustawic wiadomosc, jesli zle wykonano komende:
+wrong_args: "&8>> &cZa duza ilosc argumentow!"
+
+# Tutaj mozna ustawic wiadomosc poprawnego uzycia dla komendy /sethome:
+sethome_command_usage: "&8>> &7Poprawne uzycie&8: &b/sethome (nazwa)"
+
+# Tutaj mozna ustawic wiadomosc, udanego utworzenia domu przez gracza:
+sethome_success_setup: "&8>> &7Pomyslnie utworzono dom o nazwie&8: &b{HOME_NAME}"
+
+# Tutaj mozna ustawic wiadomosc, jesli gracz chce ustawic dom o takiej samej nazwie co istniejacy:
+sethome_not_create_home: "&8>> &cNie mozesz utworzyc takiego domu, poniewaz juz taki posiadasz!"
+
+# Tutaj mozna ustawic wiadomosc poprawnego uzycia komendy /delhome:
+delhome_command_usage: "&8>> &7Poprawne uzycie&8: &b/delhome (nazwa)"
+
+# Tutaj mozna ustawic wiadomosc, gdy gracz pomyslnie usunie swoj dom:
+delhome_success_delete: "&8>> &7Pomyslnie usunieto dom o nazwie&8: &b{HOME_NAME}"
+
+# Tutaj mozna ustawic wiadomosc, gdy gracz probuje usunac nie istniejacy dom:
+delhome_not_remove_home: "&8>> &cNie odnaleziono takiego domu!"
+
+# Tutaj mozna ustawic wiadomosc, jesli gracz wpisal sama komende /home:
+home_homes_list: "&8>> &7Twoje domy&8: &b{HOME_LIST}"
+
+# Tutaj mozna ustawic wiadomosc, jesli dom gracza nie zostal odnaleziony:
+home_not_find: "&8>> &cNie odnaleziono takiego domu!"
+
+# Tutaj mozna ustawic wiadomosc, gdy gracz zostal przeteleportowany do domu:
+home_teleport_home: "&8>> &7Teleportacja..."
+
+# Tutaj mozna ustawic czas teleportacji do domu (pamietaj, 6 = 5 sekund):
+home_time: 6
+
+# Tutaj mozna ustawic wiadomosc, odliczajaca sekundy do teleportacji:
+home_timer_message: "&8>> &7Teleportacja nastapi za&8: &b{SEKUNDY} &7sekund."
+
+# Tutaj mozna ustawic wiadomosc, gdy teleportacja zostala anulowana do domu, przez to ze gracz sie poruszyl:
+home_teleport_cancel: "&8>> &cTeleportacja zostala anulowana, poniewaz sie poruszyles!"
+
+# Tutaj mozna wlaczyc i wylaczyc informacje o pluginie:
+plugin_info: true
